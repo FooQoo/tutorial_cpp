@@ -1,4 +1,4 @@
-#include "position2D.h"
+#include "Position2D.h"
 
 void Position2D::resetPosition(){
     init();
